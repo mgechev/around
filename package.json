@@ -1,0 +1,25 @@
+{
+  "name": "around",
+  "version": "0.0.0",
+  "description": "Around decorator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgechev/around.git"
+  },
+  "keywords": [
+    "around",
+    "aspect",
+    "wrapper",
+    "async"
+  ],
+  "author": "Minko Gechev <mgechev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgechev/around/issues"
+  },
+  "homepage": "https://github.com/mgechev/around#readme"
+}

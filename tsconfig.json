@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "declaration": true,
+    "experimentalDecorators": true,
+    "noImplicitThis": false,
+    "strict": true,
+    "downlevelIteration": true,
+    "lib": ["es2015", "esnext", "dom"]
+  },
+  "exclude": ["packages/detector/__tests__/fixtures"]
+}
